@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+  textarea {
+    width: 100%;
+  }
+  button {
+    width: 100%;
+  }
+}
